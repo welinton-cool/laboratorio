@@ -14,5 +14,6 @@ public class Java2 {
         System.out.println("Hello World!");
         System.out.println("hola queirida Dome");
         System.out.println("hola a todos ");
+        System.out.println("actividad en clase");
     }
 }
